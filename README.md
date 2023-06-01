@@ -9,7 +9,7 @@ This is a command-line application that allows users to translate English words 
 1. Open a command-line interface or terminal.
 2. Navigate to the directory containing the code files.
 3. Run the application using the following command:
-'''python
+```python
 python translator.py
 4. The application will display a menu with the following options:
 * Add new words to the dictionary
