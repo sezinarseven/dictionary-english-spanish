@@ -13,7 +13,7 @@ This is a command-line application that allows users to translate English words 
 2. Navigate to the directory containing the code files.
 3. Run the application using the following command:
 ```python
-python translator.py
+python3 english_spanish_dictionary.py
 ```
 4. The application will display a menu with the following options:
 * Add new words to the dictionary
