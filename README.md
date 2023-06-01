@@ -3,9 +3,9 @@ This is a command-line application that allows users to translate English words 
 ## Setup
 1. Clone the repository or download the code files.
 2. Ensure that you have the following files in the same directory as the code file:
-> english.txt: A text file containing English words.
+*english.txt*: A text file containing English words.
 
-> spanish.txt: A text file containing corresponding Spanish translations.
+*spanish.txt*: A text file containing corresponding Spanish translations.
 ## Usage
 1. Open a command-line interface or terminal.
 2. Navigate to the directory containing the code files.
