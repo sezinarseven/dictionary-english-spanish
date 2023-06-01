@@ -26,3 +26,6 @@ python3 english_spanish_dictionary.py
 6. Follow the prompts and enter the required information as requested by each option.
 
 **Note:** The dictionary is automatically saved after each operation.
+
+
+![Screenshot from 2023-06-01 17-19-10](https://github.com/sezinarseven/dictionary-english-spanish-/assets/88224304/a2e4e8ba-6bac-42ca-bfcb-c10e36890933)
