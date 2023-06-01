@@ -3,13 +3,14 @@ This is a command-line application that allows users to translate English words 
 ## Setup
 1. Clone the repository or download the code files.
 2. Ensure that you have the following files in the same directory as the code file:
-- *english.txt*: A text file containing English words.
-- *spanish.txt*: A text file containing corresponding Spanish translations.
+> english.txt: A text file containing English words.
+> spanish.txt: A text file containing corresponding Spanish translations.
 ## Usage
 1. Open a command-line interface or terminal.
 2. Navigate to the directory containing the code files.
 3. Run the application using the following command:
-> python translator.py
+'''python
+python translator.py
 4. The application will display a menu with the following options:
 * Add new words to the dictionary
 * Enter English words to see translations
